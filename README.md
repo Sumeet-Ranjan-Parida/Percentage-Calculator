@@ -1,2 +1,2 @@
 # Marks Percentage Calculator
- Calculate the percentage of mark scored in exams.
+ Calculate the percentage of marks scored in exams.
